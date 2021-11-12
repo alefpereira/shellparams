@@ -53,7 +53,7 @@ fi
 
 echo "PARSED_PARAMS: $PARSED_PARAMS"
 
-# Loop over getopt persed params
+# Loop over getopt parsed params
 eval set -- "$PARSED_PARAMS"
 while :
 do
